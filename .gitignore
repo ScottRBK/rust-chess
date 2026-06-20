@@ -1,0 +1,6 @@
+/target
+
+# Hidden eval answer key — the perft driver and canonical counts live here for local
+# reference, but must NEVER be published. The harness injects them at score time, so the
+# agent only ever clones the lib.rs stub + Cargo.toml.
+/tests
